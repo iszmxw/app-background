@@ -22,3 +22,7 @@ npm run lint
 
 ### 自定义配置
 参照 [配置参考](https://cli.vuejs.org/config/).
+
+## Demo
+
+![demo](/src/asset/bg01.png)
