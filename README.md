@@ -25,4 +25,4 @@ npm run lint
 
 ## Demo
 
-![demo](/src/asset/bg01.png)
+![demo](/src/assets/bg01.png)
